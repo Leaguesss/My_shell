@@ -1,0 +1,13 @@
+say hello\
+s\
+t \
+asdasd \
+fasf
+/bin/pwd
+/bin/echo rhubarb rhubarb
+/bin/mkdir -p tempdir729
+/bin/rm -rf tempdir729
+
+set PS shell>
+set PS what?
+exit

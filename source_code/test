@@ -1,0 +1,25 @@
+say hello | s\
+h\
+ow
+	set a se | show
+	set
+	say hello
+ set a alpha
+ say $a
+set b bravo
+say $a $b charlie
+say $c $d x
+set $ $s
+set $c $d x
+set \
+hello \
+today
+set\   
+
+/bin/echo hello | /bin/echo hello1 > sample | /bin/cat 
+say hello < sample
+say hello
+
+
+
+
